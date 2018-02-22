@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6636c7a-8516-4784-a75d-45e692423f58" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/html/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/html/materialize.html" />
-    </list>
+    <list default="true" id="c6636c7a-8516-4784-a75d-45e692423f58" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -137,12 +133,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1519269626239</updated>
-      <workItem from="1519269631701" duration="3980000" />
+      <workItem from="1519269631701" duration="4023000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3980000" />
+    <option name="totallyTimeSpent" value="4023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1060" extended-state="6" />
